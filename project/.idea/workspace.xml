@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0b80c51-b7ff-4aa5-94bf-4332d33aaf19" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1x4ILjZQdqbin2Bkybm48uZdCkj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.test_stage1">
+    <configuration name="EquityManager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Carta1.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/Python/Carta1.0/carta" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/Python/Carta1.0/carta/EquityManager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cube" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonPlay" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/pythonPlay/venv/DFS" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/pythonPlay/venv/DFS/cube.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="check_answers" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_stage1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Carta1.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/Python/Carta1.0/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/Python/Carta1.0/tests/test_stage1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_stage2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Carta1.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/Python/Carta1.0/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/Python/Carta1.0/tests/test_stage2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="project" type="Python.DjangoServer" factoryName="Django server">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.project" />
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.cube" />
+      <item itemvalue="Python.test_stage1" />
+      <item itemvalue="Python.test_stage2" />
+      <item itemvalue="Python.EquityManager" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_stage1" />
+        <item itemvalue="Python.EquityManager" />
+        <item itemvalue="Python.test_stage2" />
+        <item itemvalue="Python.cube" />
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0b80c51-b7ff-4aa5-94bf-4332d33aaf19" name="Default Changelist" comment="" />
+      <created>1629607879619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629607879619</updated>
+      <workItem from="1629607894582" duration="6521000" />
+      <workItem from="1629749764077" duration="3553000" />
+      <workItem from="1629870988696" duration="9182000" />
+      <workItem from="1629910484152" duration="7825000" />
+      <workItem from="1629944844753" duration="37192000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="23" width="613" height="777" key="#EquityManager" timestamp="1629915128824">
+      <screen x="0" y="23" width="1239" height="777" />
+    </state>
+    <state x="0" y="23" width="613" height="777" key="#EquityManager/-215.-1057.1920.1057/0.23.1239.777@0.23.1239.777" timestamp="1629915128824" />
+    <state x="15" y="-871" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629608208602">
+      <screen x="-215" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="15" y="-871" key="#com.intellij.execution.impl.EditConfigurationsDialog/-215.-1057.1920.1057/0.23.1253.777@-215.-1057.1920.1057" timestamp="1629608208602" />
+    <state x="437" y="-719" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1629608401684">
+      <screen x="-215" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="437" y="-719" key="#com.intellij.fileTypes.FileTypeChooser/-215.-1057.1920.1057/0.23.1253.777@-215.-1057.1920.1057" timestamp="1629608401684" />
+    <state x="277" y="-1011" key="#manage" timestamp="1629607985641">
+      <screen x="-215" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="277" y="-1011" key="#manage/-215.-1057.1920.1057/0.23.1254.777@-215.-1057.1920.1057" timestamp="1629607985641" />
+    <state x="263" y="-1018" key="#project" timestamp="1629607947457">
+      <screen x="-215" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="263" y="-1018" key="#project/-215.-1057.1920.1057/0.23.1254.777@-215.-1057.1920.1057" timestamp="1629607947457" />
+    <state x="608" y="23" width="613" height="777" key="#test_stage1" timestamp="1629915049162">
+      <screen x="0" y="23" width="1239" height="777" />
+    </state>
+    <state x="608" y="23" width="613" height="777" key="#test_stage1/-215.-1057.1920.1057/0.23.1239.777@0.23.1239.777" timestamp="1629915049162" />
+    <state x="0" y="23" width="613" height="777" key="#test_stage2" timestamp="1629915032899">
+      <screen x="0" y="23" width="1239" height="777" />
+    </state>
+    <state x="0" y="23" width="613" height="777" key="#test_stage2/-215.-1057.1920.1057/0.23.1239.777@0.23.1239.777" timestamp="1629915032899" />
+    <state width="938" height="300" key="DebuggerActiveHint" timestamp="1629876190358">
+      <screen x="0" y="23" width="1240" height="777" />
+    </state>
+    <state width="938" height="300" key="DebuggerActiveHint/0.23.1240.777@0.23.1240.777" timestamp="1629876190358" />
+    <state width="1878" height="84" key="GridCell.Tab.0.bottom" timestamp="1630189625040">
+      <screen x="-215" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1197" height="242" key="GridCell.Tab.0.bottom/-215.-1057.1920.1057/0.23.1237.777@0.23.1237.777" timestamp="1629910424387" />
+    <state width="1878" height="84" key="GridCell.Tab.0.bottom/-215.-1057.1920.1057/0.23.1239.777@-215.-1057.1920.1057" timestamp="1630189625040" />
+    <state width="1878" height="132" key="GridCell.Tab.0.bottom/-215.-1057.1920.1057/0.23.1239.777@0.23.1239.777" timestamp="1629915128862" />
+    <state width="1878" height="132" key="GridCell.Tab.0.bottom/-215.-1057.1920.1057/0.23.1240.777@-215.-1057.1920.1057" timestamp="1629926213632" />
+    <state width="1878" height="132" key="GridCell.Tab.0.bottom/-215.-1057.1920.1057/0.23.1241.777@-215.-1057.1920.1057" timestamp="1629917564425" />
+    <state width="1200" height="89" key="GridCell.Tab.0.bottom/-215.-1057.1920.1057/0.23.1245.777@0.23.1245.777" timestamp="1629753868740" />
+    <state width="1878" height="204" key="GridCell.Tab.0.bottom/-215.-1057.1920.1057/0.23.1252.777@0.23.1252.777" timestamp="1629749403089" />
+    <state width="1209" height="190" key="GridCell.Tab.0.bottom/-215.-1057.1920.1057/0.23.1253.777@-215.-1057.1920.1057" timestamp="1629608210875" />
+    <state width="1200" height="36" key="GridCell.Tab.0.bottom/-215.-1057.1920.1057/0.23.1253.777@0.23.1253.777" timestamp="1629862417805" />
+    <state width="1878" height="179" key="GridCell.Tab.0.bottom/-215.-1057.1920.1057/0.23.1254.777@-215.-1057.1920.1057" timestamp="1629609668613" />
+    <state width="1194" height="84" key="GridCell.Tab.0.bottom/0.23.1236.777@0.23.1236.777" timestamp="1629954973699" />
+    <state width="1197" height="132" key="GridCell.Tab.0.bottom/0.23.1240.777@0.23.1240.777" timestamp="1629876856467" />
+    <state width="1197" height="132" key="GridCell.Tab.0.bottom/0.23.1241.777@0.23.1241.777" timestamp="1629902982020" />
+    <state width="1878" height="179" key="GridCell.Tab.0.bottom/0.23.1252.777@0.23.1252.777" timestamp="1629700597540" />
+    <state width="1878" height="84" key="GridCell.Tab.0.center" timestamp="1630189625038">
+      <screen x="-215" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1197" height="242" key="GridCell.Tab.0.center/-215.-1057.1920.1057/0.23.1237.777@0.23.1237.777" timestamp="1629910424386" />
+    <state width="1878" height="84" key="GridCell.Tab.0.center/-215.-1057.1920.1057/0.23.1239.777@-215.-1057.1920.1057" timestamp="1630189625038" />
+    <state width="1878" height="132" key="GridCell.Tab.0.center/-215.-1057.1920.1057/0.23.1239.777@0.23.1239.777" timestamp="1629915128861" />
+    <state width="1878" height="132" key="GridCell.Tab.0.center/-215.-1057.1920.1057/0.23.1240.777@-215.-1057.1920.1057" timestamp="1629926213631" />
+    <state width="1878" height="132" key="GridCell.Tab.0.center/-215.-1057.1920.1057/0.23.1241.777@-215.-1057.1920.1057" timestamp="1629917564423" />
+    <state width="1200" height="89" key="GridCell.Tab.0.center/-215.-1057.1920.1057/0.23.1245.777@0.23.1245.777" timestamp="1629753868738" />
+    <state width="1878" height="204" key="GridCell.Tab.0.center/-215.-1057.1920.1057/0.23.1252.777@0.23.1252.777" timestamp="1629749403087" />
+    <state width="1209" height="190" key="GridCell.Tab.0.center/-215.-1057.1920.1057/0.23.1253.777@-215.-1057.1920.1057" timestamp="1629608210873" />
+    <state width="1200" height="36" key="GridCell.Tab.0.center/-215.-1057.1920.1057/0.23.1253.777@0.23.1253.777" timestamp="1629862417804" />
+    <state width="1878" height="179" key="GridCell.Tab.0.center/-215.-1057.1920.1057/0.23.1254.777@-215.-1057.1920.1057" timestamp="1629609668612" />
+    <state width="1194" height="84" key="GridCell.Tab.0.center/0.23.1236.777@0.23.1236.777" timestamp="1629954973697" />
+    <state width="1197" height="132" key="GridCell.Tab.0.center/0.23.1240.777@0.23.1240.777" timestamp="1629876856466" />
+    <state width="1197" height="132" key="GridCell.Tab.0.center/0.23.1241.777@0.23.1241.777" timestamp="1629902982020" />
+    <state width="1878" height="179" key="GridCell.Tab.0.center/0.23.1252.777@0.23.1252.777" timestamp="1629700597539" />
+    <state width="1878" height="84" key="GridCell.Tab.0.left" timestamp="1630189625038">
+      <screen x="-215" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1197" height="242" key="GridCell.Tab.0.left/-215.-1057.1920.1057/0.23.1237.777@0.23.1237.777" timestamp="1629910424385" />
+    <state width="1878" height="84" key="GridCell.Tab.0.left/-215.-1057.1920.1057/0.23.1239.777@-215.-1057.1920.1057" timestamp="1630189625038" />
+    <state width="1878" height="132" key="GridCell.Tab.0.left/-215.-1057.1920.1057/0.23.1239.777@0.23.1239.777" timestamp="1629915128860" />
+    <state width="1878" height="132" key="GridCell.Tab.0.left/-215.-1057.1920.1057/0.23.1240.777@-215.-1057.1920.1057" timestamp="1629926213631" />
+    <state width="1878" height="132" key="GridCell.Tab.0.left/-215.-1057.1920.1057/0.23.1241.777@-215.-1057.1920.1057" timestamp="1629917564423" />
+    <state width="1200" height="89" key="GridCell.Tab.0.left/-215.-1057.1920.1057/0.23.1245.777@0.23.1245.777" timestamp="1629753868738" />
+    <state width="1878" height="204" key="GridCell.Tab.0.left/-215.-1057.1920.1057/0.23.1252.777@0.23.1252.777" timestamp="1629749403087" />
+    <state width="1209" height="190" key="GridCell.Tab.0.left/-215.-1057.1920.1057/0.23.1253.777@-215.-1057.1920.1057" timestamp="1629608210872" />
+    <state width="1200" height="36" key="GridCell.Tab.0.left/-215.-1057.1920.1057/0.23.1253.777@0.23.1253.777" timestamp="1629862417803" />
+    <state width="1878" height="179" key="GridCell.Tab.0.left/-215.-1057.1920.1057/0.23.1254.777@-215.-1057.1920.1057" timestamp="1629609668611" />
+    <state width="1194" height="84" key="GridCell.Tab.0.left/0.23.1236.777@0.23.1236.777" timestamp="1629954973696" />
+    <state width="1197" height="132" key="GridCell.Tab.0.left/0.23.1240.777@0.23.1240.777" timestamp="1629876856466" />
+    <state width="1197" height="132" key="GridCell.Tab.0.left/0.23.1241.777@0.23.1241.777" timestamp="1629902982019" />
+    <state width="1878" height="179" key="GridCell.Tab.0.left/0.23.1252.777@0.23.1252.777" timestamp="1629700597538" />
+    <state width="1878" height="84" key="GridCell.Tab.0.right" timestamp="1630189625039">
+      <screen x="-215" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1197" height="242" key="GridCell.Tab.0.right/-215.-1057.1920.1057/0.23.1237.777@0.23.1237.777" timestamp="1629910424386" />
+    <state width="1878" height="84" key="GridCell.Tab.0.right/-215.-1057.1920.1057/0.23.1239.777@-215.-1057.1920.1057" timestamp="1630189625039" />
+    <state width="1878" height="132" key="GridCell.Tab.0.right/-215.-1057.1920.1057/0.23.1239.777@0.23.1239.777" timestamp="1629915128861" />
+    <state width="1878" height="132" key="GridCell.Tab.0.right/-215.-1057.1920.1057/0.23.1240.777@-215.-1057.1920.1057" timestamp="1629926213632" />
+    <state width="1878" height="132" key="GridCell.Tab.0.right/-215.-1057.1920.1057/0.23.1241.777@-215.-1057.1920.1057" timestamp="1629917564424" />
+    <state width="1200" height="89" key="GridCell.Tab.0.right/-215.-1057.1920.1057/0.23.1245.777@0.23.1245.777" timestamp="1629753868739" />
+    <state width="1878" height="204" key="GridCell.Tab.0.right/-215.-1057.1920.1057/0.23.1252.777@0.23.1252.777" timestamp="1629749403088" />
+    <state width="1209" height="190" key="GridCell.Tab.0.right/-215.-1057.1920.1057/0.23.1253.777@-215.-1057.1920.1057" timestamp="1629608210874" />
+    <state width="1200" height="36" key="GridCell.Tab.0.right/-215.-1057.1920.1057/0.23.1253.777@0.23.1253.777" timestamp="1629862417805" />
+    <state width="1878" height="179" key="GridCell.Tab.0.right/-215.-1057.1920.1057/0.23.1254.777@-215.-1057.1920.1057" timestamp="1629609668612" />
+    <state width="1194" height="84" key="GridCell.Tab.0.right/0.23.1236.777@0.23.1236.777" timestamp="1629954973698" />
+    <state width="1197" height="132" key="GridCell.Tab.0.right/0.23.1240.777@0.23.1240.777" timestamp="1629876856467" />
+    <state width="1197" height="132" key="GridCell.Tab.0.right/0.23.1241.777@0.23.1241.777" timestamp="1629902982020" />
+    <state width="1878" height="179" key="GridCell.Tab.0.right/0.23.1252.777@0.23.1252.777" timestamp="1629700597539" />
+    <state x="637" y="-936" width="1068" height="832" key="find.popup" timestamp="1630134596492">
+      <screen x="-215" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="637" y="-936" width="1068" height="832" key="find.popup/-215.-1057.1920.1057/0.23.1239.777@-215.-1057.1920.1057" timestamp="1630134596492" />
+    <state x="675" y="-936" width="1030" height="830" key="find.popup/-215.-1057.1920.1057/0.23.1254.777@-215.-1057.1920.1057" timestamp="1629609419630" />
+    <state x="550" y="112" width="689" height="611" key="find.popup/0.23.1239.777@0.23.1239.777" timestamp="1630049264376" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dimensions/challenge.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Documents/pythonPlay/venv/DFS/cube.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Documents/pythonPlay/venv/DFS/cube.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Documents/pythonPlay/venv/DFS/cube.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/project$cube.coverage" NAME="cube Coverage Results" MODIFIED="1629876856442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/pythonPlay/venv/DFS" />
+    <SUITE FILE_PATH="coverage/project$test_stage2.coverage" NAME="test_stage2 Coverage Results" MODIFIED="1629915032940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/Python/Carta1.0/tests" />
+    <SUITE FILE_PATH="coverage/project$EquityManager.coverage" NAME="EquityManager Coverage Results" MODIFIED="1629925316850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/Python/Carta1.0/carta" />
+    <SUITE FILE_PATH="coverage/project$manage.coverage" NAME="manage Coverage Results" MODIFIED="1629753868725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project$test_stage1.coverage" NAME="test_stage1 Coverage Results" MODIFIED="1630189625022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/Python/Carta1.0/tests" />
+  </component>
+</project>
